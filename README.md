@@ -17,8 +17,7 @@ It is designed to be fully responsive and visually engaging, using modern CSS te
 - **SASS:** CSS preprocessor for writing more efficient and maintainable styles.
 
 ## Screenshot
-![](/images/screenshot.png.png)
-![Uploading screenshot.png.png…]()
+![Uploading screenshot.png.png…](https://github.com/Hossam-Ahmed-ELSharabasy/Personal-website-Rev.2024/blob/main/screenshot.png.png)
 
 ## Acknowledgements
 - **Almadrsa Diploma:** For providing comprehensive front-end development training.
