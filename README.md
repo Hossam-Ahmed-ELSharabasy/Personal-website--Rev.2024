@@ -25,7 +25,7 @@ It is designed to be fully responsive and visually engaging, using modern CSS te
 - **Community & Open Source:** For the tools and libraries that made this project possible.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 - Linkedin - [@Hossam Ahmed El Sharabasy](https://www.linkedin.com/in/hossamelsharabasy/))
